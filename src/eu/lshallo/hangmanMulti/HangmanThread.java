@@ -1,4 +1,4 @@
-package tk.lshallo.hangmanMulti;
+package eu.lshallo.hangmanMulti;
 
 import java.text.DecimalFormat;
 import java.util.HashMap;

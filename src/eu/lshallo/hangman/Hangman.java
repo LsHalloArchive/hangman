@@ -1,4 +1,4 @@
-package tk.lshallo.hangman;
+package eu.lshallo.hangman;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;

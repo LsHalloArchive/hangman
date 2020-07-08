@@ -1,4 +1,4 @@
-package tk.lshallo.hangmanMulti;
+package eu.lshallo.hangmanMulti;
 
 import java.io.BufferedReader;
 import java.io.File;
